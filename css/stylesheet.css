@@ -30,3 +30,17 @@ body{
     margin: 0;
 }
 
+footer{
+    text-align: center;
+    padding: 10% 2% 2% 2%;
+    background-color: antiquewhite;
+}
+
+a{
+    color: crimson;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #795548;
+}
